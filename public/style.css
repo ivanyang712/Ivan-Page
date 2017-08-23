@@ -7,7 +7,7 @@
   background-color: #6f5499;
 }
 
-.main-header h1 {
+.main-header h1, h2{
   margin-top: 0;
   color: #fff;
 }
